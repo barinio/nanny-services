@@ -1,0 +1,45 @@
+:root {
+	--black-text-prim: #11101c;
+	--black-text-sec: rgba(17, 16, 28, 0.5);
+
+	--white-text-prim: #fbfbfb;
+	--white-sec-prim: rgba(251, 251, 251, 0.4);
+
+	--red-prim-color: #f03f3b;
+	--red-sec-color: rgba(240, 63, 59, 0.2);
+
+	/* --blue-prim-color: #0957c3;
+	--red-sec-color: rgba(9, 87, 195, 0.2);
+
+	--green-prim-color: #103931;
+	--green-sec-color: rgba(16, 57, 49, 0.2); */
+
+	--fz-title: 40px;
+	--fz-text: 16px;
+
+	--fw-bold: 500;
+
+	--ln-title: 1.2;
+	--ln-text: 1.25;
+
+	/* 
+	28\24 = 1.16666
+	-------------
+	24\24 = 1
+	70\70 = 1
+	-------------
+	30\28 = 1.07
+	-------------
+	24\20 = 1.2
+	48\40 = 1.2
+---------------
+	20\16 = 1.25
+	------------
+	20\18 = 1.1111
+	------------
+	18\14 = 1.2857
+
+
+
+	*/
+}
